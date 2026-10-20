@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Documents\\GitHub\\mae263F_F26\\HW2\\Homework2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{279487CA-75AA-4A30-8F14-264145A676FC}|Homework2\\Homework2.pyproj|C:\\Users\\lucas\\OneDrive\\Documents\\GitHub\\mae263F_F26\\HW2\\Homework2\\Homework2\\Homework2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{279487CA-75AA-4A30-8F14-264145A676FC}|Homework2\\Homework2.pyproj|solutionrelative:Homework2\\Homework2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucas\\OneDrive\\Documents\\GitHub\\mae263F_F26\\HW2\\Homework2\\Homework2\\hessEb.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework2\\hessEb.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hessEb.py",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documents\\GitHub\\mae263F_F26\\HW2\\Homework2\\Homework2\\hessEb.py",
+              "RelativeDocumentMoniker": "Homework2\\hessEb.py",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documents\\GitHub\\mae263F_F26\\HW2\\Homework2\\Homework2\\hessEb.py",
+              "RelativeToolTip": "Homework2\\hessEb.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-20T00:16:07.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homework2.py",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documents\\GitHub\\mae263F_F26\\HW2\\Homework2\\Homework2\\Homework2.py",
+              "RelativeDocumentMoniker": "Homework2\\Homework2.py",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documents\\GitHub\\mae263F_F26\\HW2\\Homework2\\Homework2\\Homework2.py*",
+              "RelativeToolTip": "Homework2\\Homework2.py*",
+              "ViewState": "AgIAALIAAAAAAAAAAAAiwMsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-19T23:44:44.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
